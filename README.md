@@ -168,7 +168,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Team
 
-- **Azizi Zaidi** - *Lead Developer* - [GitHub](https://github.com/azizizaidi)
+- **Azizi Zaidi** - *Backend Engineer* - [GitHub](https://github.com/azizizaidi)
 
 ---
 
